@@ -1,3 +1,3 @@
 # deepLearning
-this project contains implementation of error back propagation algorithm
-with optimization of stochastic and batch method.
+This project contains an implementation of Error backpropagation algorithm of stochastic gradient descent and batch method.
+The activation function used is sigmoid.
